@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="visa.poc.api.tests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="visaUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://sandbox.api.visa.com/</Value>
+    </Setting>
+    <Setting Name="cert" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\dev\visa\visa_api\visa.poc.api.tests\certs</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9yAER4u9BkMkVonp7yVY4wtzg0FZSrWL8e</Value>
+    </Setting>
+    <Setting Name="certPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jimbono</Value>
+    </Setting>
+    <Setting Name="userId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WOJI510HO5AK26SA0MJF21--ZoaA3uig1VdXebGkpd-U2HxTI</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

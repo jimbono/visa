@@ -1,0 +1,6 @@
+C:\dev\visa\visa_api\visa.poc.api.legacy\bin\Debug\visa.poc.api.legacy.dll
+C:\dev\visa\visa_api\visa.poc.api.legacy\bin\Debug\visa.poc.api.legacy.pdb
+C:\dev\visa\visa_api\visa.poc.api.legacy\obj\Debug\visa.poc.api.legacy.csproj.CoreCompileInputs.cache
+C:\dev\visa\visa_api\visa.poc.api.legacy\obj\Debug\visa.poc.api.legacy.dll
+C:\dev\visa\visa_api\visa.poc.api.legacy\obj\Debug\visa.poc.api.legacy.pdb
+C:\dev\visa\visa_api\visa.poc.api.legacy\obj\Debug\visa.poc.api.legacy.csprojResolveAssemblyReference.cache

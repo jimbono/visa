@@ -1,0 +1,8 @@
+C:\dev\visa\visa_api\visa.poc.api\bin\Debug\netstandard1.4\visa.poc.api.deps.json
+C:\dev\visa\visa_api\visa.poc.api\bin\Debug\netstandard1.4\visa.poc.api.dll
+C:\dev\visa\visa_api\visa.poc.api\obj\Debug\netstandard1.4\visa.poc.api.csproj.CoreCompileInputs.cache
+C:\dev\visa\visa_api\visa.poc.api\obj\Debug\netstandard1.4\visa.poc.api.AssemblyInfo.cs
+C:\dev\visa\visa_api\visa.poc.api\bin\Debug\netstandard1.4\visa.poc.api.pdb
+C:\dev\visa\visa_api\visa.poc.api\obj\Debug\netstandard1.4\visa.poc.api.dll
+C:\dev\visa\visa_api\visa.poc.api\obj\Debug\netstandard1.4\visa.poc.api.pdb
+C:\dev\visa\visa_api\visa.poc.api\obj\Debug\netstandard1.4\visa.poc.api.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\visa.poc.api.tests.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\visa.poc.api.tests.pdb
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\visa.poc.api.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\visa.poc.api.pdb
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\dev\visa\visa_api\visa.poc.api.tests\obj\Debug\visa.poc.api.tests.csprojResolveAssemblyReference.cache
+C:\dev\visa\visa_api\visa.poc.api.tests\obj\Debug\visa.poc.api.tests.csproj.CoreCompileInputs.cache
+C:\dev\visa\visa_api\visa.poc.api.tests\obj\Debug\visa.poc.api.tests.dll
+C:\dev\visa\visa_api\visa.poc.api.tests\obj\Debug\visa.poc.api.tests.pdb
+C:\dev\visa\visa_api\visa.poc.api.tests\bin\Debug\visa.poc.api.tests.dll.config
